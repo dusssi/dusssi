@@ -1,49 +1,81 @@
-# 👋 Hey, I'm Dushyant  
+# 👋 Hey, I'm Dushyant
 
-💡 Student | AI & Machine Learning Explorer | Full Stack Builder  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+Full+Stack;Building+Intelligent+Systems;Turning+Ideas+into+Reality" />
+</p>
 
-I’m focused on building real-world projects that combine **AI, Machine Learning, and Web Development**.  
-Not just learning — actually creating things that solve problems.
+💡 AI & Machine Learning Explorer | Full Stack Builder
 
----
-
-## 🚀 What I'm Doing  
-- 🤖 Learning **Machine Learning & Deep Learning**
-- 🌐 Building apps with **MERN Stack**
-- 🧠 Exploring **AI-based systems & automation**
-- ⚡ Working on **CAATE-X (AI project)**
+I build systems at the intersection of **AI, Machine Learning, and Web Development** —
+focused on creating things that are not just functional, but *intelligent*.
 
 ---
 
-## 🛠 Tech Stack  
-- 💻 Languages: JavaScript, Python, Java  
-- 🌐 Frontend: React.js, HTML, CSS  
-- 🔧 Backend: Node.js, Express.js  
-- 🗄 Database: MongoDB, Firebase  
-- ⚙️ Tools: Git, GitHub, VS Code  
+## 🚀 Current Direction
+
+* 🤖 Deep diving into **Machine Learning & Deep Learning**
+* 🌐 Building scalable apps with the **MERN Stack**
+* 🧠 Exploring **AI systems & automation workflows**
+* ⚡ Developing **CAATE-X — an independent AI system**
 
 ---
 
-## 📌 Projects  
-- 🔹 TriRidex – Ride booking web app  
-- 🔹 Portfolio Website – Personal + blog style  
-- 🔹 Air Quality Analysis – Data interpretation project  
-- 🔹 CAATE-X – AI system (in progress)
+## 🧠 Spotlight Project — CAATE-X
+
+> A system designed to move towards **independent intelligence**
+
+* ⚡ Focused on intelligent decision-making
+* 🧩 Modular AI architecture
+* 🚀 Built with long-term scalability in mind
 
 ---
 
-## 📈 Current Focus  
-- Strengthening **AI/ML fundamentals**  
-- Improving **DSA & problem solving**  
-- Building **unique, standout projects**
+## 🛠 Tech Stack
+
+* 💻 **Languages:** JavaScript, Python, Java
+* 🌐 **Frontend:** React.js, HTML, CSS
+* 🔧 **Backend:** Node.js, Express.js
+* 🗄 **Databases:** MongoDB, Firebase
+* ⚙️ **Tools:** Git, GitHub, VS Code
 
 ---
 
-## 🎯 Vision  
-I aim to build systems that feel like **independent intelligence** —  
-not just code, but something that can think, adapt, and evolve.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dusssi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dusssi&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Fun Fact  
-I overthink ideas — and then turn them into projects.
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dusssi&theme=tokyo-night" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+* 🔹 **TriRidex** — Ride booking web application
+* 🔹 **Applied-AI-ML-Foundations** — ML core implementations
+* 🔹 **Air Quality Analysis** — Data-driven insights
+* 🔹 **CAATE-X** — AI system *(in progress)*
+
+---
+
+## 🎯 Vision
+
+I aim to build systems that feel like **independent intelligence** —
+not just code, but systems that can **learn, adapt, and evolve**.
+
+---
+
+## ⚡ Fun Fact
+
+I overthink ideas —
+then turn them into systems.
+
+---
