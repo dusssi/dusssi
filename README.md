@@ -4,14 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Full+Stack;Building+Independent+Intelligence;Turning+Ideas+into+Real+Systems" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dusssi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00F4&height=90&section=header"/>
+
 ---
 
 ## 🧠 About Me
 
 💡 AI & Machine Learning Explorer | Full Stack Builder
 
-I build systems that live at the intersection of **AI, Machine Learning, and Web Development** —
-focused on creating things that are not just functional, but *intelligent and adaptive*.
+I build systems at the intersection of **AI, Machine Learning, and Web Development** —
+focused on creating solutions that are not just functional, but *intelligent and adaptive*.
 
 ---
 
@@ -37,9 +43,7 @@ focused on creating things that are not just functional, but *intelligent and ad
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,express,mongodb,firebase,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,express,mongodb,firebase,git,github,vscode" />
 </p>
 
 ---
@@ -63,9 +67,9 @@ focused on creating things that are not just functional, but *intelligent and ad
 
 ## 🧩 Featured Work
 
-* 🔹 **TriRidex** — Ride booking system (Full Stack)
-* 🔹 **Applied-AI-ML-Foundations** — ML core concepts & implementations
-* 🔹 **Air Quality Analysis** — Data insights project
+* 🔹 **TriRidex** — Full-stack ride booking system
+* 🔹 **Applied-AI-ML-Foundations** — Core ML implementations
+* 🔹 **Air Quality Analysis** — Data-driven insights
 * 🔹 **CAATE-X** — AI system *(in progress)*
 
 ---
@@ -83,3 +87,10 @@ not just code, but systems that can **learn, adapt, and evolve over time**.
 > Think deeper than the average implementation.
 
 ---
+
+## ⚡ Fun Fact
+
+I overthink ideas —
+then turn them into systems.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00F7FF&height=90&section=footer"/>
