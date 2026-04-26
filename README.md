@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Dushyant
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Full+Stack;Building+Independent+Intelligence;Turning+Ideas+into+Real+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Full+Stack;Building+Systems+That+Think;From+Ideas+to+Working+Intelligence" />
 </p>
 
 <p align="center">
@@ -14,29 +14,29 @@
 
 ## 🧠 About Me
 
-💡 AI & Machine Learning Explorer | Full Stack Builder
+I work at the intersection of **AI, Machine Learning, and Full-Stack Development**.
 
-I build systems at the intersection of **AI, Machine Learning, and Web Development** —
-focused on creating solutions that are not just functional, but *intelligent and adaptive*.
+Not just building apps —
+I focus on building systems that **understand, adapt, and evolve**.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I’m Working On
 
 * 🤖 Machine Learning & Deep Learning
-* 🌐 MERN Stack Development
-* 🧠 AI Systems & Automation
-* ⚡ Building **CAATE-X (Independent AI System)**
+* 🌐 MERN Stack Systems
+* 🧠 AI-based architectures
+* ⚡ Developing **CAATE-X (Independent AI System)**
 
 ---
 
 ## 🧊 Core Project — CAATE-X
 
-> A step toward systems that think beyond predefined logic
+> Not just automation — movement toward independent intelligence
 
 * 🧩 Modular AI architecture
-* ⚡ Intelligent decision-making system
-* 🔄 Designed for continuous evolution
+* ⚡ Decision-making driven systems
+* 🔄 Designed to evolve with data
 
 ---
 
@@ -57,7 +57,7 @@ focused on creating solutions that are not just functional, but *intelligent and
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dusssi&theme=tokyo-night&hide_border=true" />
@@ -65,32 +65,34 @@ focused on creating solutions that are not just functional, but *intelligent and
 
 ---
 
-## 🧩 Featured Work
+## 🧩 Selected Work
 
 * 🔹 **TriRidex** — Full-stack ride booking system
-* 🔹 **Applied-AI-ML-Foundations** — Core ML implementations
+* 🔹 **MASSA** — Memory-augmented sequence modeling prototype
+* 🔹 **Applied AI/ML Foundations** — Core ML implementations
 * 🔹 **Air Quality Analysis** — Data-driven insights
 * 🔹 **CAATE-X** — AI system *(in progress)*
 
 ---
 
-## 🎯 Vision
+## 🎯 Direction
 
-I aim to build systems that feel like **independent intelligence** —
-not just code, but systems that can **learn, adapt, and evolve over time**.
+I’m interested in building systems that move beyond fixed logic —
+toward systems that can **learn patterns, make decisions, and improve over time**.
 
 ---
 
 ## ⚡ Philosophy
 
-> Build less. Build better.
-> Think deeper than the average implementation.
+> Build with intent.
+> Keep it simple.
+> Make it meaningful.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Small Truth
 
 I overthink ideas —
-then turn them into systems.
+then I build them anyway.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00F7FF&height=90&section=footer"/>
