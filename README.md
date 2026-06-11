@@ -1,54 +1,113 @@
 # 👋 Hey, I'm Dushyant
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Full+Stack;Building+Systems+That+Think;From+Ideas+to+Working+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;MCA+Student;Building+Intelligent+Systems;Full+Stack+Developer;Always+Learning+Always+Building" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dusssi&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00F4&height=90&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00F4&height=100&section=header"/>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I work at the intersection of **AI, Machine Learning, and Full-Stack Development**.
+I'm an MCA student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
-Not just building apps —
-I focus on building systems that **understand, adapt, and evolve**.
+My goal is to build intelligent systems that combine data, algorithms, and software engineering to solve real-world problems.
 
----
+Currently exploring the intersection of:
 
-## 🚀 What I’m Working On
-
-* 🤖 Machine Learning & Deep Learning
-* 🌐 MERN Stack Systems
-* 🧠 AI-based architectures
-* ⚡ Developing **CAATE-X (Independent AI System)**
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning & Deep Learning
+* 👁️ Computer Vision
+* 📊 Data Science
+* 🌐 Full-Stack Development
 
 ---
 
-## 🧊 Core Project — CAATE-X
+# 🚀 Current Focus
 
-> Not just automation — movement toward independent intelligence
-
-* 🧩 Modular AI architecture
-* ⚡ Decision-making driven systems
-* 🔄 Designed to evolve with data
+* Machine Learning Fundamentals
+* Deep Learning with PyTorch & TensorFlow
+* Computer Vision using OpenCV & YOLO
+* Data Structures & Algorithms
+* MERN Stack Development
+* AI-Powered Applications
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,express,mongodb,firebase,git,github,vscode" />
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
+### 🤖 AI / Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Scikit-Learn
+* TensorFlow
+* PyTorch
+* OpenCV
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* XGBoost
+* Jupyter Notebook
+
+### 🌐 Full-Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### 📚 Currently Learning
+
+* Computer Vision
+* MLOps
+* FastAPI
+* Docker
+* YOLO
+* LangChain
+* Retrieval-Augmented Generation (RAG)
+* AI System Design
+
 ---
 
-## 📊 GitHub Stats
+# 📌 Featured Projects
+
+## 🚖 TriRidex
+
+Full-stack ride booking platform built using React, Node.js, Express.js, MongoDB, and Firebase with authentication and ride management features.
+
+## 🌍 Air Quality Analysis
+
+Data analytics project focused on environmental datasets, visualization, and predictive insights.
+
+## 🧠 Applied Machine Learning Projects
+
+Hands-on implementations of supervised learning, classification, regression, feature engineering, and model evaluation techniques.
+
+## 🤖 CAATE-X (In Progress)
+
+An AI-focused project exploring modular architectures, intelligent decision systems, and scalable AI workflows.
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dusssi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -57,7 +116,7 @@ I focus on building systems that **understand, adapt, and evolve**.
 
 ---
 
-## 📈 Activity
+# 📊 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dusssi&theme=tokyo-night&hide_border=true" />
@@ -65,34 +124,39 @@ I focus on building systems that **understand, adapt, and evolve**.
 
 ---
 
-## 🧩 Selected Work
+# 🎯 2026 Goals
 
-* 🔹 **TriRidex** — Full-stack ride booking system
-* 🔹 **MASSA** — Memory-augmented sequence modeling prototype
-* 🔹 **Applied AI/ML Foundations** — Core ML implementations
-* 🔹 **Air Quality Analysis** — Data-driven insights
-* 🔹 **CAATE-X** — AI system *(in progress)*
-
----
-
-## 🎯 Direction
-
-I’m interested in building systems that move beyond fixed logic —
-toward systems that can **learn patterns, make decisions, and improve over time**.
+* Build production-ready AI projects
+* Contribute to open-source projects
+* Master Machine Learning fundamentals
+* Learn Deep Learning & Computer Vision
+* Secure an AI/ML Internship
+* Develop impactful AI-powered applications
 
 ---
 
-## ⚡ Philosophy
+# 💡 Philosophy
 
-> Build with intent.
-> Keep it simple.
-> Make it meaningful.
+> Learn deeply.
+>
+> Build consistently.
+>
+> Share openly.
+>
+> Improve every day.
 
 ---
 
-## ⚡ Small Truth
+# 🤝 Let's Connect
 
-I overthink ideas —
-then I build them anyway.
+I'm always interested in discussing:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00F7FF&height=90&section=footer"/>
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Full-Stack Development
+* Open Source Projects
+
+Let's build something meaningful.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00F7FF&height=100&section=footer"/>
