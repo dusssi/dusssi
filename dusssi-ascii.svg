@@ -1,9 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="370" height="485" viewBox="0 0 370 485" role="img" aria-label="ASCII portrait placeholder for dusssi">
-<rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="12" y="20" fill="#8b949e" font-family="monospace" font-size="10">dusssi@github:~/portrait</text>
-<text x="16" y="66" fill="#c9d1d9" font-family="monospace" font-size="13">Add your photo locally</text>
-<text x="16" y="94" fill="#8b949e" font-family="monospace" font-size="10">python scripts/prep_photo.py source-photo.jpg</text>
-<text x="16" y="114" fill="#8b949e" font-family="monospace" font-size="10">python scripts/make_ascii_svg.py</text>
-<text x="16" y="158" fill="#7ee787" font-family="monospace" font-size="11">No photo uploaded yet.</text>
-<text x="12" y="468" fill="#8b949e" font-family="monospace" font-size="10">[ waiting for local portrait generation ]</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="500" viewBox="0 0 590 500" role="img" aria-label="Animated ASCII portrait generated from Dushyant's provided photo">
+<style>
+.ascii{font-family:"Courier New",monospace;font-size:10.1px;letter-spacing:.15px;fill:#c9d1d9;white-space:pre;opacity:0;animation:reveal 1.8s ease-out .2s forwards}
+.label{font:11px monospace;fill:#7ee787}.sub{font:10px monospace;fill:#8b949e}
+@keyframes reveal{to{opacity:1}}@media(prefers-reduced-motion:reduce){.ascii{animation:none;opacity:1}}
+</style>
+<rect width="100%" height="100%" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="18" y="22" class="label">dusssi@github:~/portrait</text>
+<text x="18" y="36" class="sub">personal photo → ASCII render</text>
+<text x="18" y="50" class="ascii"><![CDATA[
+XAXXXXXssXXssssssAssrsXsrrrsr:iXs;;ii ,.;rrrrrssssss
+XXXXXXXXssXssssssssrrssrrrrr;:rr. .;  ..;rrrrssssXss
+AXXXXXXXsXsssssssssrssrrri;ri;;         :iiirrssssss
+XXXXXXXsssssssssssriirrrii,r:.i iS@@@SMr  rrrrisrssX
+XXXXXXXsssssssssssirrsirir;:,X@@@@@@@@@@@, ;rrrrrsss
+XXXXXXsssssssssrssrrri;   .X9@@@@@@@@@@@@@r :iriirss
+XXXssXsssssssssrrrrri;.  H@@@@@@@@@@@@@@@@@9r iirrss
+Xssssrssssssrssrrrsr;i A@@@@@@@@@@@@@@@@@@@@@M,:rrss
+sXXXsssrXrssrrrrrrss:.3@@@@@@@@@@@@@@@@@@@@@@@&:;irs
+ssssXXXsrssrrrrrrr;i::@@@@@@@@@@@@@@@@@@@@@@@@@3.irr
+XssssXrXsssrrrrrri.; M@@@@@@@@@@@@@@@@@@@@@@@@@@:;is
+sssXsssssrsssssrrr::,S@@@@@@@@@@@@@@@@@@@@@@@@@@5.ss
+sssssssssrsssrirrii.:@@@@@@@@@@@@@@@@@@@@@@@@@@@&,rs
+ssssssssrrrrsrrrXri ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@s:r
+ssssrsrssrrrrirrrri s@@@@@@@@SG@@@@@HB@@@@@@@@@@@5,s
+sssssssssirrrrrr;ri.A@@@@@@@@S9@@@@@S9@@@@@@@@@@@2:s
+sssssssssssrrrsrrrr 2@@@@@@@@@@@@@@@@@@@@@B@@@@@@;;s
+Xsssssssssssrrrrrrr #@@@@@@@@@@@@@@@@@@@@@@@@@@@@,rs
+Xssssssssssssrrrrrr,M@@@#@@@@@@@@@@@@G@@@@@@@@@@@:sA
+XXsXXssssssssrrrrrs,;@@@S&@@&&@@@@@@BM@@@@&@@@@@S:sX
+XXXXXssXssrssrssrrr,2@@@#B#GM5G@@@@XH&@@@@@@@@@@;isX
+XXXXXXXsXssssssssrr:@@@#G9@@@@@@@@BM9@@@@&9@@@@B.sXX
+AsXXXXXssXssssssssi;&&@HMG&&#@@B@@HAG@@@HMHG@@@iisXX
+XXAXXXXXXXXsssssssi;S@GhMMG9#SGGS93XG@@B@@@BB@s:XsXX
+XAAXXXXXXXXsssssssriM@HMMh5hHGMhMGhAMSMH@&@&#&,rsXXX
+AAXXXXXXXXXXsXXsssrrHH9GHh3h3M23GH59#MMS#99HSS:sXXXX
+AXAXAXXXXXXXXXssssrrGS9GHMMMH22HSHH@#Hh3HGGM#2;XXXXX
+AXXXXXXXXXXXXXssssriH@9SHMM355HH5h55GHhh#Bhh#AiXXXXX
+AXXXXXXXXXXXXXXXsssi2@SSGMhhMhG@@&53M3h2G9MH#XrXXXXX
+AAAXAXXXXXXXXXXXXXss;X&9SHMHM33@@@&@@BM33hHGSrsXXXXX
+XAAAAXAXXXXXXXXXXXssr:&@#SGHSGMGH&@@@B5hMMHSH;XXXXXX
+AAAXXAAXXXXsXXXXXXsssiBS9SH&@B##GhMH9MhhMMH93;sssXXX
+AAAXXAAXXXXXXXXXXXXss;SS@SG@@@@@@@99SG9#HHG&XrXssssX
+AAAAXAAXXsXXXXXXXXXXX;h@@BGSS9BBB&@@@@&@9H9BisXXXXXX
+AAAAAAAAXXXXXXXXXXsXXrr@@@9SSG9&9SGB@@@@&H@H.sssXXXX
+AAAAAAAAAAXXXXXsXXXr;; S@@i;BSS@B@@B9GH9S9@#i;sXXXXX
+AAAAAAAAAAAAXXXXss;sH#G@@@h29SG#MM99GGSS#@@@@2;XXXXX
+2AAAAAAAAAAAAXrissAB@@@@@@@BHGHMHSGGS9##@@##@@X;rsXX
+222222AAXXssis5H9B&&@@@@@@@@HMMhHHhMHG#@@@SG@@#S3ris
+222222AAX252M9@&BB9B@@@@@@@@@S##B&#GMG@@@&SG@@#&@@Hr
+2252222XA&&B&B999BSB@@@@@@@@@@@B#B&B#@@@@##S9B9S#&@B
+222222AsS@99999999#99@@@@@@@@@@@B@@@@@@@@99SB@9##SSB
+]]></text>
+<text x="18" y="478" class="sub">Dushyant · AI/ML Developer Profile</text>
 </svg>
