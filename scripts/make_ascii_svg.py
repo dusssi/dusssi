@@ -6,7 +6,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data" / "source-prepped.png"
@@ -20,10 +20,16 @@ def main() -> None:
     if not SOURCE.exists():
         raise SystemExit("Prepared portrait not found. Run prep_photo.py with your photo first.")
     image = Image.open(SOURCE).convert("L")
-    image = image.resize((COLS, ROWS), Image.Resampling.LANCZOS)
+    # Crop to the character-cell aspect ratio instead of distorting a portrait.
+    image = ImageOps.fit(
+        image,
+        (COLS, ROWS),
+        method=Image.Resampling.LANCZOS,
+        centering=(0.5, 0.42),
+    )
     pixels = np.asarray(image)
     lines = [
-        "".join(RAMP[min(len(RAMP)-1, int((255 - int(v)) / 256 * len(RAMP)))] for v in row)
+        "".join(RAMP[min(len(RAMP) - 1, int((255 - int(value)) / 256 * len(RAMP)))] for value in row)
         for row in pixels
     ]
 
