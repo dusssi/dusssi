@@ -1,0 +1,39 @@
+name: Update profile art
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/fetch_contributions.py"
+      - "scripts/render_heatmap_svg.py"
+      - ".github/workflows/update-profile-art.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install daily-workflow dependencies
+        run: python -m pip install requests beautifulsoup4
+      - name: Fetch public contribution data
+        env:
+          GITHUB_USERNAME: dusssi
+        run: python scripts/fetch_contributions.py
+      - name: Render animated heatmap
+        run: python scripts/render_heatmap_svg.py
+      - name: Commit refreshed contribution calendar
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution graph [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg"
