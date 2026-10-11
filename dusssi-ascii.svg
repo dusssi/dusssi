@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="485" viewBox="0 0 370 485" role="img" aria-label="ASCII portrait placeholder for dusssi">
+<rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="12" y="20" fill="#8b949e" font-family="monospace" font-size="10">dusssi@github:~/portrait</text>
+<text x="16" y="66" fill="#c9d1d9" font-family="monospace" font-size="13">Add your photo locally</text>
+<text x="16" y="94" fill="#8b949e" font-family="monospace" font-size="10">python scripts/prep_photo.py source-photo.jpg</text>
+<text x="16" y="114" fill="#8b949e" font-family="monospace" font-size="10">python scripts/make_ascii_svg.py</text>
+<text x="16" y="158" fill="#7ee787" font-family="monospace" font-size="11">No photo uploaded yet.</text>
+<text x="12" y="468" fill="#8b949e" font-family="monospace" font-size="10">[ waiting for local portrait generation ]</text>
+</svg>
