@@ -1,53 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="590" height="500" viewBox="0 0 590 500" role="img" aria-label="Animated ASCII portrait generated from Dushyant's provided photo">
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="500" viewBox="0 0 590 500" role="img" aria-label="Animated ASCII portrait generated from Dushyant's photo">
 <style>
-.ascii{font-family:"Courier New",monospace;font-size:10.1px;letter-spacing:.15px;fill:#c9d1d9;opacity:0;animation:reveal .5s ease-out var(--delay) forwards}
+.ascii{font-family:"Courier New",monospace;font-size:10px;letter-spacing:.15px;fill:#c9d1d9;opacity:1;animation:fadein .45s ease-out var(--delay) both}
 .label{font:11px monospace;fill:#7ee787}.sub{font:10px monospace;fill:#8b949e}
-@keyframes reveal{to{opacity:1}}@media(prefers-reduced-motion:reduce){.ascii{animation:none;opacity:1}}
+@keyframes fadein{from{opacity:.15;transform:translateY(2px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){.ascii{animation:none;opacity:1}}
 </style>
 <rect width="100%" height="100%" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="18" y="22" class="label">dusssi@github:~/portrait</text>
-<text x="18" y="36" class="sub">personal photo → ASCII render</text>
-<text x="18" y="54" class="ascii" style="--delay:0.000s">XAXXXXXssXXssssssAssrsXsrrrsr:iXs;;ii ,.;rrrrrssssss</text>
-<text x="18" y="64.1" class="ascii" style="--delay:0.075s">XXXXXXXXssXssssssssrrssrrrrr;:rr. .;  ..;rrrrssssXss</text>
-<text x="18" y="74.2" class="ascii" style="--delay:0.150s">AXXXXXXXsXsssssssssrssrrri;ri;;         :iiirrssssss</text>
-<text x="18" y="84.3" class="ascii" style="--delay:0.225s">XXXXXXXsssssssssssriirrrii,r:.i iS@@@SMr  rrrrisrssX</text>
-<text x="18" y="94.4" class="ascii" style="--delay:0.300s">XXXXXXXsssssssssssirrsirir;:,X@@@@@@@@@@@, ;rrrrrsss</text>
-<text x="18" y="104.5" class="ascii" style="--delay:0.375s">XXXXXXsssssssssrssrrri;   .X9@@@@@@@@@@@@@r :iriirss</text>
-<text x="18" y="114.6" class="ascii" style="--delay:0.450s">XXXssXsssssssssrrrrri;.  H@@@@@@@@@@@@@@@@@9r iirrss</text>
-<text x="18" y="124.7" class="ascii" style="--delay:0.525s">Xssssrssssssrssrrrsr;i A@@@@@@@@@@@@@@@@@@@@@M,:rrss</text>
-<text x="18" y="134.8" class="ascii" style="--delay:0.600s">sXXXsssrXrssrrrrrrss:.3@@@@@@@@@@@@@@@@@@@@@@@&amp;:;irs</text>
-<text x="18" y="144.89999999999998" class="ascii" style="--delay:0.675s">ssssXXXsrssrrrrrrr;i::@@@@@@@@@@@@@@@@@@@@@@@@@3.irr</text>
-<text x="18" y="155" class="ascii" style="--delay:0.750s">XssssXrXsssrrrrrri.; M@@@@@@@@@@@@@@@@@@@@@@@@@@:;is</text>
-<text x="18" y="165.1" class="ascii" style="--delay:0.825s">sssXsssssrsssssrrr::,S@@@@@@@@@@@@@@@@@@@@@@@@@@5.ss</text>
-<text x="18" y="175.2" class="ascii" style="--delay:0.900s">sssssssssrsssrirrii.:@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;,rs</text>
-<text x="18" y="185.29999999999998" class="ascii" style="--delay:0.975s">ssssssssrrrrsrrrXri ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@s:r</text>
-<text x="18" y="195.4" class="ascii" style="--delay:1.050s">ssssrsrssrrrrirrrri s@@@@@@@@SG@@@@@HB@@@@@@@@@@@5,s</text>
-<text x="18" y="205.5" class="ascii" style="--delay:1.125s">sssssssssirrrrrr;ri.A@@@@@@@@S9@@@@@S9@@@@@@@@@@@2:s</text>
-<text x="18" y="215.6" class="ascii" style="--delay:1.200s">sssssssssssrrrsrrrr 2@@@@@@@@@@@@@@@@@@@@@B@@@@@@;;s</text>
-<text x="18" y="225.7" class="ascii" style="--delay:1.275s">Xsssssssssssrrrrrrr #@@@@@@@@@@@@@@@@@@@@@@@@@@@@,rs</text>
-<text x="18" y="235.79999999999998" class="ascii" style="--delay:1.350s">Xssssssssssssrrrrrr,M@@@#@@@@@@@@@@@@G@@@@@@@@@@@:sA</text>
-<text x="18" y="245.9" class="ascii" style="--delay:1.425s">XXsXXssssssssrrrrrs,;@@@S&amp;@@&amp;&amp;@@@@@@BM@@@@&amp;@@@@@S:sX</text>
-<text x="18" y="256" class="ascii" style="--delay:1.500s">XXXXXssXssrssrssrrr,2@@@#B#GM5G@@@@XH&amp;@@@@@@@@@@;isX</text>
-<text x="18" y="266.1" class="ascii" style="--delay:1.575s">XXXXXXXsXssssssssrr:@@@#G9@@@@@@@@BM9@@@@&amp;9@@@@B.sXX</text>
-<text x="18" y="276.2" class="ascii" style="--delay:1.650s">AsXXXXXssXssssssssi;&amp;&amp;@HMG&amp;&amp;#@@B@@HAG@@@HMHG@@@iisXX</text>
-<text x="18" y="286.29999999999995" class="ascii" style="--delay:1.725s">XXAXXXXXXXXsssssssi;S@GhMMG9#SGGS93XG@@B@@@BB@s:XsXX</text>
-<text x="18" y="296.4" class="ascii" style="--delay:1.800s">XAAXXXXXXXXsssssssriM@HMMh5hHGMhMGhAMSMH@&amp;@&amp;#&amp;,rsXXX</text>
-<text x="18" y="306.5" class="ascii" style="--delay:1.875s">AAXXXXXXXXXXsXXsssrrHH9GHh3h3M23GH59#MMS#99HSS:sXXXX</text>
-<text x="18" y="316.59999999999997" class="ascii" style="--delay:1.950s">AXAXAXXXXXXXXXssssrrGS9GHMMMH22HSHH@#Hh3HGGM#2;XXXXX</text>
-<text x="18" y="326.7" class="ascii" style="--delay:2.025s">AXXXXXXXXXXXXXssssriH@9SHMM355HH5h55GHhh#Bhh#AiXXXXX</text>
-<text x="18" y="336.8" class="ascii" style="--delay:2.100s">AXXXXXXXXXXXXXXXsssi2@SSGMhhMhG@@&amp;53M3h2G9MH#XrXXXXX</text>
-<text x="18" y="346.9" class="ascii" style="--delay:2.175s">AAAXAXXXXXXXXXXXXXss;X&amp;9SHMHM33@@@&amp;@@BM33hHGSrsXXXXX</text>
-<text x="18" y="357" class="ascii" style="--delay:2.250s">XAAAAXAXXXXXXXXXXXssr:&amp;@#SGHSGMGH&amp;@@@B5hMMHSH;XXXXXX</text>
-<text x="18" y="367.09999999999997" class="ascii" style="--delay:2.325s">AAAXXAAXXXXsXXXXXXsssiBS9SH&amp;@B##GhMH9MhhMMH93;sssXXX</text>
-<text x="18" y="377.2" class="ascii" style="--delay:2.400s">AAAXXAAXXXXXXXXXXXXss;SS@SG@@@@@@@99SG9#HHG&amp;XrXssssX</text>
-<text x="18" y="387.3" class="ascii" style="--delay:2.475s">AAAAXAAXXsXXXXXXXXXXX;h@@BGSS9BBB&amp;@@@@&amp;@9H9BisXXXXXX</text>
-<text x="18" y="397.4" class="ascii" style="--delay:2.550s">AAAAAAAAXXXXXXXXXXsXXrr@@@9SSG9&amp;9SGB@@@@&amp;H@H.sssXXXX</text>
-<text x="18" y="407.5" class="ascii" style="--delay:2.625s">AAAAAAAAAAXXXXXsXXXr;; S@@i;BSS@B@@B9GH9S9@#i;sXXXXX</text>
-<text x="18" y="417.59999999999997" class="ascii" style="--delay:2.700s">AAAAAAAAAAAAXXXXss;sH#G@@@h29SG#MM99GGSS#@@@@2;XXXXX</text>
-<text x="18" y="427.7" class="ascii" style="--delay:2.775s">2AAAAAAAAAAAAXrissAB@@@@@@@BHGHMHSGGS9##@@##@@X;rsXX</text>
-<text x="18" y="437.8" class="ascii" style="--delay:2.850s">222222AAXXssis5H9B&amp;&amp;@@@@@@@@HMMhHHhMHG#@@@SG@@#S3ris</text>
-<text x="18" y="447.9" class="ascii" style="--delay:2.925s">222222AAX252M9@&amp;BB9B@@@@@@@@@S##B&amp;#GMG@@@&amp;SG@@#&amp;@@Hr</text>
-<text x="18" y="458" class="ascii" style="--delay:3.000s">2252222XA&amp;&amp;B&amp;B999BSB@@@@@@@@@@@B#B&amp;B#@@@@##S9B9S#&amp;@B</text>
-<text x="18" y="468.09999999999997" class="ascii" style="--delay:3.075s">222222AsS@99999999#99@@@@@@@@@@@B@@@@@@@@99SB@9##SSB</text>
+<text x="18" y="36" class="sub">photo → contrast-enhanced ASCII · 40 rows</text>
+<text x="18" y="59" class="ascii" style="--delay:0.00s">...                                                 </text>
+<text x="18" y="69.1" class="ascii" style="--delay:0.07s"> ..                                                 </text>
+<text x="18" y="79.2" class="ascii" style="--delay:0.14s">...                         ..=#%@#*-               </text>
+<text x="18" y="89.3" class="ascii" style="--delay:0.21s">  .                        =@@@@@@@@@@.             </text>
+<text x="18" y="99.4" class="ascii" style="--delay:0.28s">. .                     .+%@@@@@@@@@@@@=            </text>
+<text x="18" y="109.5" class="ascii" style="--delay:0.35s">.                      *@@@@@@@@@@@@@@@@%-          </text>
+<text x="18" y="119.6" class="ascii" style="--delay:0.42s">                     -@@@@@@@@@@@@@@@@@@@@*         </text>
+<text x="18" y="129.7" class="ascii" style="--delay:0.49s">                     %@@@@@@@@@@@@@@@@@@@@@=        </text>
+<text x="18" y="139.8" class="ascii" style="--delay:0.56s">                    =@@@@@@@@@@@@@@@@@@@@@@%        </text>
+<text x="18" y="149.89999999999998" class="ascii" style="--delay:0.63s">                    *@@@@@@@@@@@@@@@@@@@@@@@=       </text>
+<text x="18" y="160" class="ascii" style="--delay:0.70s">                    %@@@@@@@@@@@@@@@@@@@@@@@%       </text>
+<text x="18" y="170.1" class="ascii" style="--delay:0.77s">                    @@@@@@@@@@@@@@@@@@@@@@@@@:      </text>
+<text x="18" y="180.2" class="ascii" style="--delay:0.84s">                   .@@@@@@@#*@@@@##@@@@@@@@@@-      </text>
+<text x="18" y="190.29999999999998" class="ascii" style="--delay:0.91s">                   :@@@@@@@@@@@@@@%@@@@@@@@@@:      </text>
+<text x="18" y="200.4" class="ascii" style="--delay:0.98s">                   =@@@@@@@@@@@@@@@@@@@@@@@@@       </text>
+<text x="18" y="210.5" class="ascii" style="--delay:1.05s">                   =@@@%@@@@@@@@@@%@@@@@@@@@@  .    </text>
+<text x="18" y="220.6" class="ascii" style="--delay:1.12s">                   .@@@#@@@@@@@@@@*@@@@@@@@@#  .. ..</text>
+<text x="18" y="230.7" class="ascii" style="--delay:1.19s">                   :@@%#%#*+#@@@*+%@@@@@@@@@:      .</text>
+<text x="18" y="240.79999999999998" class="ascii" style="--delay:1.26s">..                 *@@**%@@@@@@@**@@@@%%@@@%       .</text>
+<text x="18" y="250.9" class="ascii" style="--delay:1.33s">..                 +%#++*%#@%%@#==@@@%###@@:      ..</text>
+<text x="18" y="261" class="ascii" style="--delay:1.40s">. ...              =%++==+***+*+-=%%#@@@#@-       ..</text>
+<text x="18" y="271.1" class="ascii" style="--delay:1.47s">..... .            =**+=--====++=+++*%#%*#:       ..</text>
+<text x="18" y="281.2" class="ascii" style="--delay:1.54s">......             =+*+====--=*+*#+=+***++        ..</text>
+<text x="18" y="291.29999999999995" class="ascii" style="--delay:1.61s">........           =##++==--=+=+=*+==**=+=    ......</text>
+<text x="18" y="301.4" class="ascii" style="--delay:1.68s">........    .      :#**+====+##+-+==-**=+-      ....</text>
+<text x="18" y="311.5" class="ascii" style="--delay:1.75s">.......             -#*++++=+%@@#@#+-==++:       ...</text>
+<text x="18" y="321.59999999999997" class="ascii" style="--delay:1.82s">........             ##**+**+**@@%%====++.       . .</text>
+<text x="18" y="331.7" class="ascii" style="--delay:1.89s">..........          .**#*#@%###**#*+=++++      .  ..</text>
+<text x="18" y="341.8" class="ascii" style="--delay:1.96s">......... ...        +%%*#%@@@@%%%###++*=       ....</text>
+<text x="18" y="351.9" class="ascii" style="--delay:2.03s">.........  ..        +@@#**#%%##%@@@@#*#-      .....</text>
+<text x="18" y="362" class="ascii" style="--delay:2.10s">............    .    .%@#=**#%%%#%##%##%:     . ....</text>
+<text x="18" y="372.09999999999997" class="ascii" style="--delay:2.17s">..............  .  :-=@@#.***#*#%#**##@@#-   .. ....</text>
+<text x="18" y="382.2" class="ascii" style="--delay:2.24s">..............  ..=%%@@@@%**+++***###@@#%%-  ... ...</text>
+<text x="18" y="392.3" class="ascii" style="--delay:2.31s">..............-=**%@@@@@@@*+++++++*#%@@*%@#+-. ......</text>
+<text x="18" y="402.4" class="ascii" style="--delay:2.38s">::.......:--=*#####@@@@@@@@###%#*+*@@@%##@##%#=.....</text>
+<text x="18" y="412.5" class="ascii" style="--delay:2.45s">:.::.....*#########@@@@@@@@@@%#%%%@@@@###%####%*: ..</text>
+<text x="18" y="422.59999999999997" class="ascii" style="--delay:2.52s">::::.::.=##########%@@@@@@@@@@@@@@@@@@###%%####%#-::</text>
+<text x="18" y="432.7" class="ascii" style="--delay:2.59s">:::.::.=#######%#%%#@@@@@@@@@@@@@@@@@%%##%%%%%%#%%*+</text>
+<text x="18" y="442.8" class="ascii" style="--delay:2.66s">:::::.=########%#@%#%@@@@@@@@@@@@@@@@%%##%%%%####*##</text>
+<text x="18" y="452.9" class="ascii" style="--delay:2.73s">:::::=%#########%@##%@@@@@@@@@@@@@%%@%%##%#%######%%</text>
 <text x="18" y="488" class="sub">Dushyant · AI/ML Developer Profile</text>
 </svg>
