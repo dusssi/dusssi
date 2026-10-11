@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="485" viewBox="0 0 490 485" role="img" aria-label="Developer information card for dusssi">
+<style>
+ text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+ .title { font-size: 13px; fill: #c9d1d9; }
+ .key { font-size: 12px; fill: #7ee787; }
+ .value { font-size: 12px; fill: #c9d1d9; }
+ .muted { font-size: 10px; fill: #8b949e; }
+ .row { opacity: 0; animation: enter .45s ease-out var(--delay) forwards; }
+ @keyframes enter { from { opacity: 0; transform: translateX(8px); } to { opacity: 1; transform: translateX(0); } }
+ @media (prefers-reduced-motion: reduce) { .row { animation: none; opacity: 1; } }
+</style>
+<rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M10 0 H480 Q490 0 490 10 V42 H0 V10 Q0 0 10 0Z" fill="#161b22"/>
+<circle cx="18" cy="21" r="4" fill="#ff7b72"/><circle cx="32" cy="21" r="4" fill="#d29922"/><circle cx="46" cy="21" r="4" fill="#7ee787"/>
+<text x="65" y="25" class="title">dusssi@github — profile</text>
+<text x="28" y="67" class="muted">PROFILE :: AI / ML</text>
+<g class="row" style="--delay:0s"><text x="28" y="95" class="key">role</text><text x="142" y="95" class="value">MCA · AI/ML student</text></g>
+<g class="row" style="--delay:.14s"><text x="28" y="138" class="key">focus</text><text x="142" y="138" class="value">Python · NLP · Computer Vision</text></g>
+<g class="row" style="--delay:.28s"><text x="28" y="181" class="key">stack</text><text x="142" y="181" class="value">React · FastAPI · PostgreSQL</text></g>
+<g class="row" style="--delay:.42s"><text x="28" y="224" class="key">building</text><text x="142" y="224" class="value">Practical AI applications</text></g>
+<g class="row" style="--delay:.56s"><text x="28" y="267" class="key">projects</text><text x="142" y="267" class="value">Resume matching · Route planning</text></g>
+<g class="row" style="--delay:.70s"><text x="28" y="310" class="key">learning</text><text x="142" y="310" class="value">ML systems · full-stack engineering</text></g>
+<line x1="28" y1="353" x2="462" y2="353" stroke="#30363d"/>
+<text x="28" y="380" class="muted">STATUS</text><text x="142" y="380" class="value">learning · building · iterating</text>
+<text x="28" y="420" class="muted">GITHUB</text><text x="142" y="420" class="value">github.com/dusssi</text>
+<text x="28" y="455" class="muted">Keep it real. Build useful things.</text>
+</svg>
