@@ -11,6 +11,10 @@ on:
       - "scripts/render_heatmap_svg.py"
       - ".github/workflows/update-profile-art.yml"
 
+concurrency:
+  group: profile-art-${{ github.ref }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -32,8 +36,18 @@ jobs:
         run: python scripts/fetch_contributions.py
       - name: Render animated heatmap
         run: python scripts/render_heatmap_svg.py
-      - name: Commit refreshed contribution calendar
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+      - name: Configure Git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Commit, rebase, and push refreshed calendar
+        run: |
+          git add data/contributions.json contrib-heatmap.svg
+          if git diff --cached --quiet; then
+            echo "No generated profile-art changes to commit."
+          else
+            git commit -m "chore: refresh contribution graph [skip ci]"
+          fi
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
