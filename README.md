@@ -1,162 +1,62 @@
-# 👋 Hey, I'm Dushyant
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;MCA+Student;Building+Intelligent+Systems;Full+Stack+Developer;Always+Learning+Always+Building" />
-</p>
+<h3><code>dusssi@github ~ $ ./contributions.sh</code></h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dusssi&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution calendar generated from public GitHub data" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00F4&height=100&section=header"/>
+<br><br>
 
----
+<h3><code>dusssi@github ~ $ whoami</code></h3>
 
-# 🧠 About Me
+<table>
+  <tr>
+    <td valign="top" width="370">
+      <img src="./dusssi-ascii.svg" width="350" alt="ASCII portrait placeholder; generated locally from a photo you provide" />
+    </td>
+    <td valign="top" width="490">
+      <img src="./info-card.svg" width="470" alt="Developer information card" />
+    </td>
+  </tr>
+</table>
 
-I'm an MCA student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development.
+<p><code>AI/ML · Python · Computer Vision · NLP · Full-Stack Development</code></p>
 
-My goal is to build intelligent systems that combine data, algorithms, and software engineering to solve real-world problems.
-
-Currently exploring the intersection of:
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning & Deep Learning
-* 👁️ Computer Vision
-* 📊 Data Science
-* 🌐 Full-Stack Development
+</div>
 
 ---
 
-# 🚀 Current Focus
+## 👋 Hey, I'm Dushyant
 
-* Machine Learning Fundamentals
-* Deep Learning with PyTorch & TensorFlow
-* Computer Vision using OpenCV & YOLO
-* Data Structures & Algorithms
-* MERN Stack Development
-* AI-Powered Applications
+MCA student focused on AI/ML and software development. I’m interested in building intelligent applications that combine machine learning, useful interfaces, and sound engineering.
 
----
+## 🧠 Current interests
 
-# 🛠 Tech Stack
+- Machine learning and deep learning
+- Natural language processing and semantic search
+- Computer vision and practical AI applications
+- Python backend development and full-stack systems
 
-### 💻 Languages
+## 🛠 Tech I work with / explore
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,postgres,fastapi,docker,git,github,vscode" alt="Technology icons" />
 </p>
 
-### 🤖 AI / Machine Learning
+## 🚀 Selected projects
 
-* Machine Learning
-* Deep Learning
-* Scikit-Learn
-* TensorFlow
-* PyTorch
-* OpenCV
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* XGBoost
-* Jupyter Notebook
+- **AI-Powered Resume & Job Matching System** — resume parsing, semantic job matching, skill-gap analysis, and learning recommendations.
+- **Computer Vision-Based Ambulance Route Optimization** — traffic-density estimation and comparison of route-planning algorithms.
+- **GramSathi AI** — a project concept for a voice-first assistant for rural citizens.
+- **CAATE-X** — an AI-focused project; see the repository for its current implementation and status.
 
-### 🌐 Full-Stack Development
+## 📊 Contribution calendar
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
-</p>
+The calendar above is generated from GitHub’s public contributions page and is intended to refresh daily through GitHub Actions. No contribution totals or activity have been hard-coded. If GitHub changes its public HTML, the fetch workflow may need updating.
 
-### ⚙️ Tools & Platforms
+## 🤝 Connect
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### 📚 Currently Learning
-
-* Computer Vision
-* MLOps
-* FastAPI
-* Docker
-* YOLO
-* LangChain
-* Retrieval-Augmented Generation (RAG)
-* AI System Design
+- GitHub: [@dusssi](https://github.com/dusssi)
 
 ---
 
-# 📌 Featured Projects
-
-## 🚖 TriRidex
-
-Full-stack ride booking platform built using React, Node.js, Express.js, MongoDB, and Firebase with authentication and ride management features.
-
-## 🌍 Air Quality Analysis
-
-Data analytics project focused on environmental datasets, visualization, and predictive insights.
-
-## 🧠 Applied Machine Learning Projects
-
-Hands-on implementations of supervised learning, classification, regression, feature engineering, and model evaluation techniques.
-
-## 🤖 CAATE-X (In Progress)
-
-An AI-focused project exploring modular architectures, intelligent decision systems, and scalable AI workflows.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dusssi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dusssi&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dusssi&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* Build production-ready AI projects
-* Contribute to open-source projects
-* Master Machine Learning fundamentals
-* Learn Deep Learning & Computer Vision
-* Secure an AI/ML Internship
-* Develop impactful AI-powered applications
-
----
-
-# 💡 Philosophy
-
-> Learn deeply.
->
-> Build consistently.
->
-> Share openly.
->
-> Improve every day.
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in discussing:
-
-* Artificial Intelligence
-* Machine Learning
-* Computer Vision
-* Full-Stack Development
-* Open Source Projects
-
-Let's build something meaningful.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00F7FF&height=100&section=footer"/>
+<sub>Profile art is generated from local scripts in this repository. The ASCII portrait is a placeholder until you run the portrait scripts with your own photo. No photo is uploaded by the scheduled workflow.</sub>
