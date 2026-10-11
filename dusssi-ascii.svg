@@ -1,55 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="590" height="500" viewBox="0 0 590 500" role="img" aria-label="Animated ASCII portrait generated from Dushyant's provided photo">
 <style>
-.ascii{font-family:"Courier New",monospace;font-size:10.1px;letter-spacing:.15px;fill:#c9d1d9;white-space:pre;opacity:0;animation:reveal 1.8s ease-out .2s forwards}
+.ascii{font-family:"Courier New",monospace;font-size:10.1px;letter-spacing:.15px;fill:#c9d1d9;opacity:0;animation:reveal .5s ease-out var(--delay) forwards}
 .label{font:11px monospace;fill:#7ee787}.sub{font:10px monospace;fill:#8b949e}
 @keyframes reveal{to{opacity:1}}@media(prefers-reduced-motion:reduce){.ascii{animation:none;opacity:1}}
 </style>
 <rect width="100%" height="100%" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="18" y="22" class="label">dusssi@github:~/portrait</text>
 <text x="18" y="36" class="sub">personal photo → ASCII render</text>
-<text x="18" y="50" class="ascii"><![CDATA[
-XAXXXXXssXXssssssAssrsXsrrrsr:iXs;;ii ,.;rrrrrssssss
-XXXXXXXXssXssssssssrrssrrrrr;:rr. .;  ..;rrrrssssXss
-AXXXXXXXsXsssssssssrssrrri;ri;;         :iiirrssssss
-XXXXXXXsssssssssssriirrrii,r:.i iS@@@SMr  rrrrisrssX
-XXXXXXXsssssssssssirrsirir;:,X@@@@@@@@@@@, ;rrrrrsss
-XXXXXXsssssssssrssrrri;   .X9@@@@@@@@@@@@@r :iriirss
-XXXssXsssssssssrrrrri;.  H@@@@@@@@@@@@@@@@@9r iirrss
-Xssssrssssssrssrrrsr;i A@@@@@@@@@@@@@@@@@@@@@M,:rrss
-sXXXsssrXrssrrrrrrss:.3@@@@@@@@@@@@@@@@@@@@@@@&:;irs
-ssssXXXsrssrrrrrrr;i::@@@@@@@@@@@@@@@@@@@@@@@@@3.irr
-XssssXrXsssrrrrrri.; M@@@@@@@@@@@@@@@@@@@@@@@@@@:;is
-sssXsssssrsssssrrr::,S@@@@@@@@@@@@@@@@@@@@@@@@@@5.ss
-sssssssssrsssrirrii.:@@@@@@@@@@@@@@@@@@@@@@@@@@@&,rs
-ssssssssrrrrsrrrXri ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@s:r
-ssssrsrssrrrrirrrri s@@@@@@@@SG@@@@@HB@@@@@@@@@@@5,s
-sssssssssirrrrrr;ri.A@@@@@@@@S9@@@@@S9@@@@@@@@@@@2:s
-sssssssssssrrrsrrrr 2@@@@@@@@@@@@@@@@@@@@@B@@@@@@;;s
-Xsssssssssssrrrrrrr #@@@@@@@@@@@@@@@@@@@@@@@@@@@@,rs
-Xssssssssssssrrrrrr,M@@@#@@@@@@@@@@@@G@@@@@@@@@@@:sA
-XXsXXssssssssrrrrrs,;@@@S&@@&&@@@@@@BM@@@@&@@@@@S:sX
-XXXXXssXssrssrssrrr,2@@@#B#GM5G@@@@XH&@@@@@@@@@@;isX
-XXXXXXXsXssssssssrr:@@@#G9@@@@@@@@BM9@@@@&9@@@@B.sXX
-AsXXXXXssXssssssssi;&&@HMG&&#@@B@@HAG@@@HMHG@@@iisXX
-XXAXXXXXXXXsssssssi;S@GhMMG9#SGGS93XG@@B@@@BB@s:XsXX
-XAAXXXXXXXXsssssssriM@HMMh5hHGMhMGhAMSMH@&@&#&,rsXXX
-AAXXXXXXXXXXsXXsssrrHH9GHh3h3M23GH59#MMS#99HSS:sXXXX
-AXAXAXXXXXXXXXssssrrGS9GHMMMH22HSHH@#Hh3HGGM#2;XXXXX
-AXXXXXXXXXXXXXssssriH@9SHMM355HH5h55GHhh#Bhh#AiXXXXX
-AXXXXXXXXXXXXXXXsssi2@SSGMhhMhG@@&53M3h2G9MH#XrXXXXX
-AAAXAXXXXXXXXXXXXXss;X&9SHMHM33@@@&@@BM33hHGSrsXXXXX
-XAAAAXAXXXXXXXXXXXssr:&@#SGHSGMGH&@@@B5hMMHSH;XXXXXX
-AAAXXAAXXXXsXXXXXXsssiBS9SH&@B##GhMH9MhhMMH93;sssXXX
-AAAXXAAXXXXXXXXXXXXss;SS@SG@@@@@@@99SG9#HHG&XrXssssX
-AAAAXAAXXsXXXXXXXXXXX;h@@BGSS9BBB&@@@@&@9H9BisXXXXXX
-AAAAAAAAXXXXXXXXXXsXXrr@@@9SSG9&9SGB@@@@&H@H.sssXXXX
-AAAAAAAAAAXXXXXsXXXr;; S@@i;BSS@B@@B9GH9S9@#i;sXXXXX
-AAAAAAAAAAAAXXXXss;sH#G@@@h29SG#MM99GGSS#@@@@2;XXXXX
-2AAAAAAAAAAAAXrissAB@@@@@@@BHGHMHSGGS9##@@##@@X;rsXX
-222222AAXXssis5H9B&&@@@@@@@@HMMhHHhMHG#@@@SG@@#S3ris
-222222AAX252M9@&BB9B@@@@@@@@@S##B&#GMG@@@&SG@@#&@@Hr
-2252222XA&&B&B999BSB@@@@@@@@@@@B#B&B#@@@@##S9B9S#&@B
-222222AsS@99999999#99@@@@@@@@@@@B@@@@@@@@99SB@9##SSB
-]]></text>
-<text x="18" y="478" class="sub">Dushyant · AI/ML Developer Profile</text>
+<text x="18" y="54" class="ascii" style="--delay:0.000s">XAXXXXXssXXssssssAssrsXsrrrsr:iXs;;ii ,.;rrrrrssssss</text>
+<text x="18" y="64.1" class="ascii" style="--delay:0.075s">XXXXXXXXssXssssssssrrssrrrrr;:rr. .;  ..;rrrrssssXss</text>
+<text x="18" y="74.2" class="ascii" style="--delay:0.150s">AXXXXXXXsXsssssssssrssrrri;ri;;         :iiirrssssss</text>
+<text x="18" y="84.3" class="ascii" style="--delay:0.225s">XXXXXXXsssssssssssriirrrii,r:.i iS@@@SMr  rrrrisrssX</text>
+<text x="18" y="94.4" class="ascii" style="--delay:0.300s">XXXXXXXsssssssssssirrsirir;:,X@@@@@@@@@@@, ;rrrrrsss</text>
+<text x="18" y="104.5" class="ascii" style="--delay:0.375s">XXXXXXsssssssssrssrrri;   .X9@@@@@@@@@@@@@r :iriirss</text>
+<text x="18" y="114.6" class="ascii" style="--delay:0.450s">XXXssXsssssssssrrrrri;.  H@@@@@@@@@@@@@@@@@9r iirrss</text>
+<text x="18" y="124.7" class="ascii" style="--delay:0.525s">Xssssrssssssrssrrrsr;i A@@@@@@@@@@@@@@@@@@@@@M,:rrss</text>
+<text x="18" y="134.8" class="ascii" style="--delay:0.600s">sXXXsssrXrssrrrrrrss:.3@@@@@@@@@@@@@@@@@@@@@@@&amp;:;irs</text>
+<text x="18" y="144.89999999999998" class="ascii" style="--delay:0.675s">ssssXXXsrssrrrrrrr;i::@@@@@@@@@@@@@@@@@@@@@@@@@3.irr</text>
+<text x="18" y="155" class="ascii" style="--delay:0.750s">XssssXrXsssrrrrrri.; M@@@@@@@@@@@@@@@@@@@@@@@@@@:;is</text>
+<text x="18" y="165.1" class="ascii" style="--delay:0.825s">sssXsssssrsssssrrr::,S@@@@@@@@@@@@@@@@@@@@@@@@@@5.ss</text>
+<text x="18" y="175.2" class="ascii" style="--delay:0.900s">sssssssssrsssrirrii.:@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;,rs</text>
+<text x="18" y="185.29999999999998" class="ascii" style="--delay:0.975s">ssssssssrrrrsrrrXri ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@s:r</text>
+<text x="18" y="195.4" class="ascii" style="--delay:1.050s">ssssrsrssrrrrirrrri s@@@@@@@@SG@@@@@HB@@@@@@@@@@@5,s</text>
+<text x="18" y="205.5" class="ascii" style="--delay:1.125s">sssssssssirrrrrr;ri.A@@@@@@@@S9@@@@@S9@@@@@@@@@@@2:s</text>
+<text x="18" y="215.6" class="ascii" style="--delay:1.200s">sssssssssssrrrsrrrr 2@@@@@@@@@@@@@@@@@@@@@B@@@@@@;;s</text>
+<text x="18" y="225.7" class="ascii" style="--delay:1.275s">Xsssssssssssrrrrrrr #@@@@@@@@@@@@@@@@@@@@@@@@@@@@,rs</text>
+<text x="18" y="235.79999999999998" class="ascii" style="--delay:1.350s">Xssssssssssssrrrrrr,M@@@#@@@@@@@@@@@@G@@@@@@@@@@@:sA</text>
+<text x="18" y="245.9" class="ascii" style="--delay:1.425s">XXsXXssssssssrrrrrs,;@@@S&amp;@@&amp;&amp;@@@@@@BM@@@@&amp;@@@@@S:sX</text>
+<text x="18" y="256" class="ascii" style="--delay:1.500s">XXXXXssXssrssrssrrr,2@@@#B#GM5G@@@@XH&amp;@@@@@@@@@@;isX</text>
+<text x="18" y="266.1" class="ascii" style="--delay:1.575s">XXXXXXXsXssssssssrr:@@@#G9@@@@@@@@BM9@@@@&amp;9@@@@B.sXX</text>
+<text x="18" y="276.2" class="ascii" style="--delay:1.650s">AsXXXXXssXssssssssi;&amp;&amp;@HMG&amp;&amp;#@@B@@HAG@@@HMHG@@@iisXX</text>
+<text x="18" y="286.29999999999995" class="ascii" style="--delay:1.725s">XXAXXXXXXXXsssssssi;S@GhMMG9#SGGS93XG@@B@@@BB@s:XsXX</text>
+<text x="18" y="296.4" class="ascii" style="--delay:1.800s">XAAXXXXXXXXsssssssriM@HMMh5hHGMhMGhAMSMH@&amp;@&amp;#&amp;,rsXXX</text>
+<text x="18" y="306.5" class="ascii" style="--delay:1.875s">AAXXXXXXXXXXsXXsssrrHH9GHh3h3M23GH59#MMS#99HSS:sXXXX</text>
+<text x="18" y="316.59999999999997" class="ascii" style="--delay:1.950s">AXAXAXXXXXXXXXssssrrGS9GHMMMH22HSHH@#Hh3HGGM#2;XXXXX</text>
+<text x="18" y="326.7" class="ascii" style="--delay:2.025s">AXXXXXXXXXXXXXssssriH@9SHMM355HH5h55GHhh#Bhh#AiXXXXX</text>
+<text x="18" y="336.8" class="ascii" style="--delay:2.100s">AXXXXXXXXXXXXXXXsssi2@SSGMhhMhG@@&amp;53M3h2G9MH#XrXXXXX</text>
+<text x="18" y="346.9" class="ascii" style="--delay:2.175s">AAAXAXXXXXXXXXXXXXss;X&amp;9SHMHM33@@@&amp;@@BM33hHGSrsXXXXX</text>
+<text x="18" y="357" class="ascii" style="--delay:2.250s">XAAAAXAXXXXXXXXXXXssr:&amp;@#SGHSGMGH&amp;@@@B5hMMHSH;XXXXXX</text>
+<text x="18" y="367.09999999999997" class="ascii" style="--delay:2.325s">AAAXXAAXXXXsXXXXXXsssiBS9SH&amp;@B##GhMH9MhhMMH93;sssXXX</text>
+<text x="18" y="377.2" class="ascii" style="--delay:2.400s">AAAXXAAXXXXXXXXXXXXss;SS@SG@@@@@@@99SG9#HHG&amp;XrXssssX</text>
+<text x="18" y="387.3" class="ascii" style="--delay:2.475s">AAAAXAAXXsXXXXXXXXXXX;h@@BGSS9BBB&amp;@@@@&amp;@9H9BisXXXXXX</text>
+<text x="18" y="397.4" class="ascii" style="--delay:2.550s">AAAAAAAAXXXXXXXXXXsXXrr@@@9SSG9&amp;9SGB@@@@&amp;H@H.sssXXXX</text>
+<text x="18" y="407.5" class="ascii" style="--delay:2.625s">AAAAAAAAAAXXXXXsXXXr;; S@@i;BSS@B@@B9GH9S9@#i;sXXXXX</text>
+<text x="18" y="417.59999999999997" class="ascii" style="--delay:2.700s">AAAAAAAAAAAAXXXXss;sH#G@@@h29SG#MM99GGSS#@@@@2;XXXXX</text>
+<text x="18" y="427.7" class="ascii" style="--delay:2.775s">2AAAAAAAAAAAAXrissAB@@@@@@@BHGHMHSGGS9##@@##@@X;rsXX</text>
+<text x="18" y="437.8" class="ascii" style="--delay:2.850s">222222AAXXssis5H9B&amp;&amp;@@@@@@@@HMMhHHhMHG#@@@SG@@#S3ris</text>
+<text x="18" y="447.9" class="ascii" style="--delay:2.925s">222222AAX252M9@&amp;BB9B@@@@@@@@@S##B&amp;#GMG@@@&amp;SG@@#&amp;@@Hr</text>
+<text x="18" y="458" class="ascii" style="--delay:3.000s">2252222XA&amp;&amp;B&amp;B999BSB@@@@@@@@@@@B#B&amp;B#@@@@##S9B9S#&amp;@B</text>
+<text x="18" y="468.09999999999997" class="ascii" style="--delay:3.075s">222222AsS@99999999#99@@@@@@@@@@@B@@@@@@@@99SB@9##SSB</text>
+<text x="18" y="488" class="sub">Dushyant · AI/ML Developer Profile</text>
 </svg>
