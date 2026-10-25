@@ -1,43 +1,8 @@
 {
   "username": "dusssi",
   "source": "https://github.com/users/dusssi/contributions",
-  "fetched_at": "2026-10-24T11:05:01.360414+00:00",
+  "fetched_at": "2026-10-25T11:34:40.189044+00:00",
   "days": [
-    {
-      "date": "2025-10-19",
-      "level": 2,
-      "count": null
-    },
-    {
-      "date": "2025-10-20",
-      "level": 1,
-      "count": null
-    },
-    {
-      "date": "2025-10-21",
-      "level": 3,
-      "count": null
-    },
-    {
-      "date": "2025-10-22",
-      "level": 1,
-      "count": null
-    },
-    {
-      "date": "2025-10-23",
-      "level": 2,
-      "count": null
-    },
-    {
-      "date": "2025-10-24",
-      "level": 1,
-      "count": null
-    },
-    {
-      "date": "2025-10-25",
-      "level": 1,
-      "count": null
-    },
     {
       "date": "2025-10-26",
       "level": 1,
@@ -1845,7 +1810,7 @@
     },
     {
       "date": "2026-10-22",
-      "level": 2,
+      "level": 3,
       "count": null
     },
     {
@@ -1855,13 +1820,18 @@
     },
     {
       "date": "2026-10-24",
+      "level": 1,
+      "count": null
+    },
+    {
+      "date": "2026-10-25",
       "level": 0,
       "count": null
     }
   ],
   "stats": {
     "contributions_visible_calendar": null,
-    "current_streak_days_estimate": 0,
+    "current_streak_days_estimate": 1,
     "longest_streak_days_estimate": 19,
     "best_day": null,
     "monthly_totals": {},
