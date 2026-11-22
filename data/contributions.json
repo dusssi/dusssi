@@ -1,43 +1,8 @@
 {
   "username": "dusssi",
   "source": "https://github.com/users/dusssi/contributions",
-  "fetched_at": "2026-11-21T14:41:41.743790+00:00",
+  "fetched_at": "2026-11-22T14:37:52.266140+00:00",
   "days": [
-    {
-      "date": "2025-11-16",
-      "level": 3,
-      "count": null
-    },
-    {
-      "date": "2025-11-17",
-      "level": 1,
-      "count": null
-    },
-    {
-      "date": "2025-11-18",
-      "level": 2,
-      "count": null
-    },
-    {
-      "date": "2025-11-19",
-      "level": 0,
-      "count": null
-    },
-    {
-      "date": "2025-11-20",
-      "level": 1,
-      "count": null
-    },
-    {
-      "date": "2025-11-21",
-      "level": 0,
-      "count": null
-    },
-    {
-      "date": "2025-11-22",
-      "level": 1,
-      "count": null
-    },
     {
       "date": "2025-11-23",
       "level": 1,
@@ -1855,6 +1820,11 @@
     },
     {
       "date": "2026-11-21",
+      "level": 0,
+      "count": null
+    },
+    {
+      "date": "2026-11-22",
       "level": 0,
       "count": null
     }
